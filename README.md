@@ -1,9 +1,7 @@
-﻿weatherapp
+Weather App
  
   ![Wearther App - Google Chrome 8_24_2023 12_28_58 AM](https://github.com/imeshrup/WeatherAppJS/assets/117440415/7eeeec4a-64a2-46a1-bd3a-90b18e00914c)
 
-Weather App
-Weather App Screenshot
 
 Overview
 This is a simple weather app that allows users to search for the weather conditions of any city. It utilizes the OpenWeatherMap API to fetch real-time weather data and displays it in a user-friendly interface.
